@@ -1,11 +1,23 @@
-computational thinking:
-decomposition
-Abstraction
-Pattern recognition
-Algorithm thinking
+1. What is Computational Thinking?
+Computational thinking is a way of solving problems, designing systems, and understanding human behavior by drawing on the concepts fundamental to computer science.It is not just about using computers;it is a thinking skill that can be applied to many areas of life.
 
-definition of CS：
-contain computation
-problem solving
-information
-an effect of computation
+2. The Four Pillars of Computational Thinking
+(1) Decomposition (分解)
+Breaking down a large, complex problem into smaller, more manageable parts. This makes the problem easier to understand and solve step by step.
+(2) Pattern Recognition (模式识别)
+Looking for similarities, trends, or regularities among the smaller parts. Recognizing patterns helps us predict outcomes and reuse solutions.
+(3) Abstraction (抽象)
+Focusing only on the important details and ignoring irrelevant information. This helps simplify the problem and focus on what really matters.
+(4) Algorithm Thinking (算法思维)
+Designing a clear, step-by-step sequence of instructions to solve a problem or complete a task. The steps should be logical and repeatable.
+
+3. Definition of Computer Science
+Computer science is not just about programming or coding. According to our lesson, it includes three key elements:
+Computation: Using computers to process data and perform calculations.
+Problem solving: Finding effective solutions to various challenges.
+Information: Collecting, storing, and analyzing data to gain useful knowledge.
+The effect of computation — how computing technology impacts society, people, and the way we live.
+
+4.Personal Takeaway
+Today I learned that computational thinking is a valuable life skill, not just a technical tool. The four pillars provide a clear framework for tackling any kind of problem — from organizing my study schedule to planning a group project. 
+
