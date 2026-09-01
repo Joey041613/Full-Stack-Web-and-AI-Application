@@ -1,0 +1,21 @@
+What is GitHub?
+GitHub is an online platform for storing and managing projects. It does three main things: it backs up your files in the cloud, it tracks every change so you can go back to old versions, and it lets multiple people collaborate on the same project without messing up each other's work.
+
+What is the GitHub Workflow?
+The GitHub Workflow is the step-by-step process teams use to collaborate:
+Issue — Write down what needs to be done.
+Branch — Each person makes their own copy to work on safely.
+Commit — Save progress with a note explaining each change.
+Pull Request — Ask teammates to review your work.
+Review — Check for mistakes and suggest improvements.
+Merge — Combine approved changes into the main project.
+Delete — Clean up old branches to stay organized.
+
+What did I do well today?
+I successfully explained the GitHub Workflow using a real physics project example. I showed how each step connects to everyday teamwork, and I used my own words instead of copying definitions.
+
+What could I improve?
+I could make my explanations even simpler and more focused on the teamwork aspect. I also could include more specific examples of feedback during the Review step.
+
+What will I do differently next time?
+Next time, I will practice explaining these concepts to someone who knows nothing about GitHub. If they understand it, I know I've really learned it. I will also spend more time thinking about why each step matters, not just what it is.
