@@ -1,0 +1,34 @@
+What I Learned
+Git is a version control system that tracks changes to files. Think of it as a "save point" system for your project.
+
+Three key areas I learned about today:
+1. Configuration配置
+   Before using Git, you must set your name and email:
+   git config --global user.name "Your Name"
+   git config --global user.email "your.email@example.com"
+   This information is attached to every commit you make.
+2. What a commit is
+   A commit is a snapshot of all tracked files at a specific moment.
+   Each commit has a unique ID and a message that explains what was changed and why.
+   Clear commit messages are important** because they help you and your team understand the project history.
+3. How to create a commit
+   The basic workflow is:
+   - git add <file> → stage changes
+   - git commit -m "message" → save the snapshot
+   - git log --oneline → verify the commit
+
+What I Did Well
+- I configured Git correctly on the first try.
+- I wrote meaningful commit messages instead of generic ones like "update."
+
+What I Need to Improve
+- I need to memorize the commands better so I don't hesitate during independent practice.
+- I want to learn more about git add options, like how to unstage a file if I make a mistake.
+
+Questions I Still Have
+
+1. What happens if I make a commit without setting user.name and user.email?
+2. How do I fix or change a commit message after I've already committed?
+3. What's the difference between git add . and git add -A?
+4. How do I undo a commit if I made a mistake?
+5. What exactly happens when I later push my commits to GitHub?
