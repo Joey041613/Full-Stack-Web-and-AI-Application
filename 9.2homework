@@ -1,0 +1,30 @@
+Mapping a Group Project to the GitHub Workflow
+A Big History Group Presentation
+1. Create Repository
+Activity Part: Our group created a shared folder on Google Drive for the Big History presentation project.
+Similarity: Both create a central, shared storage space where all project files will live.
+Details: We set up the main folder, gave access to all group members, and uploaded the assignment instructions and our initial topic outline.
+2. Create a Branch
+Activity Part: Each group member was assigned a different part of the Big History presentation to research and prepare individually.
+Similarity: Both involve creating an independent workspace to work on a specific task without affecting the main project.
+Details: I was responsible for the "Origin of the Universe" section, while my partner worked on "Formation of Stars and Planets," and another member focused on "Emergence of Life."
+3. Commit Changes
+Activity Part: After finishing my research and slides, I saved them and uploaded them to our shared folder with a note.
+Similarity: Both involve saving your progress and recording a specific milestone in the project.
+Details: I named my file "Origin_of_Universe_Slides_v1" and left a message in our group chat saying my slides were ready for review.
+4. Open a Pull Request
+Activity Part: I formally asked the group leader to review my slides and consider adding them to the main presentation.
+Similarity: Both involve proposing your changes to be merged into the main project and requesting a review from teammates.
+Details: I messaged the group leader: "My slides on the Origin of the Universe are ready. Please check them and let me know if they can be added to the master presentation."
+5. Discuss and Review
+Activity Part: The group leader and other members reviewed my slides, pointed out missing scientific evidence, and suggested improvements.
+Similarity: Both involve a peer-review process to ensure quality before the changes are accepted.
+Details: The leader commented that I needed to add more evidence about the Big Bang and improve the slide design. I then revised my slides based on their feedback.
+6. Merge
+Activity Part: Once approved, the leader combined my slides with the other members' slides into one final presentation.
+Similarity: Both involve integrating approved changes from a branch into the main project.
+Details: The leader merged my "Origin of the Universe" slides with the "Formation of Stars and Planets" and "Emergence of Life" sections into one complete Big History presentation.
+7. Deploy / Release
+Activity Part: We presented the final Big History presentation to the class and submitted the file to the professor.
+Similarity: Both involve delivering the final, completed product to the intended audience.
+Details: We practiced the presentation together, checked the final slides for errors, presented in class, and uploaded the PDF version to the course platform before the deadline.
