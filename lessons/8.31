@@ -1,0 +1,20 @@
+What is GitHub? 
+GitHub is a cloud-based platform that hosts Git repositories.It's a digital workspace where developers can store their code, track every change they make over time, and collaborate with others without overwriting each other's work. 
+
+The GitHub Workflow (GitHub 工作流)
+1. Create a Branch
+Create a separate branch from the main project.
+2. Make Changes & Commit
+Edit your files, then save a "snapshot" of your changes with a descriptive message explaining why you made them.
+3. Push to GitHub
+Upload your branch and commits from your computer to the cloud (GitHub).
+4. Open a Pull Request
+Formally request to merge your branch into the main project. This starts a review process where teammates can comment and suggest changes.
+5. Review & Discuss
+Team members review your code, ask questions, and give feedback. You can update your branch with new commits based on their suggestions.
+6. Merge
+Once approved, click the merge button to officially integrate your changes into the main branch.
+7. Delete the Branch
+Clean up by deleting the branch you just merged. This keeps the repository tidy for future work.
+
+The core GitHub workflow is a cycle: Issue → Branch → Commit → Pull Request → Merge → Delete.
