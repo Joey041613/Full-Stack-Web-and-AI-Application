@@ -1,0 +1,79 @@
+GitHub Workflow → Newton's Laws of Motion PPT Project
+Background
+Subject: Physics (Newton's Laws of Motion unit)
+Task: A group of 4 students collaborates to create a PPT on "Applications of Newton's Laws of Motion in Real Life," including force analysis, formula derivation, and real-world calculations.
+
+Step 1: Create a Branch
+Each person chooses a different real-life scenario and creates their own draft PPT.
+They work independently without messing up the main version.
+
+Specific actions:
+The team leader creates a main framework PPT (title page + table of contents + review page of Newton's Three Laws).
+Then:
+- Student A works on car emergency braking (friction + acceleration)
+- Student B works on elevator going up (apparent weight and weightlessness)
+- Student C works on basketball projectile motion (parabolic trajectory)
+- Student D works on object on an inclined plane (gravity components + acceleration)
+Each person copies the main framework and renames it as "Name-Scenario-Draft.pptx".
+
+Step 2: Make Changes & Commit
+Each person saves a new version after finishing a step (force analysis, formula derivation, calculation).
+Each save includes a short comment explaining what was done.
+
+Specific actions:
+Student A's save records:
+- Day 1 → "Drew the force diagram for braking"
+- Day 2 → "Derived a = μg and calculated braking distance"
+- Day 3 → "Added real data (braking distance at 60 km/h)"
+Student C's save records:
+- Day 2 → "Wrote the projectile motion equations x(t) and y(t)"
+- Day 4 → "Calculated max height and horizontal range"
+Each save is labeled with a version number, e.g., "StudentA_Braking_v2.pptx".
+
+Step 3: Push to GitHub
+Upload the latest drafts to the team's shared cloud folder.
+Everyone can access the latest work and files are backed up to prevent data loss.
+
+Specific actions:
+The team uses a Google Drive shared folder.
+Each person uploads their latest version every day.
+Student B's computer crashed once, but because they had uploaded recently, they only lost 15 minutes of work.
+
+Step 4: Open a Pull Request (PR)
+After finishing their section, a person notifies the team: "My part is done. Please review my force analysis and calculations."
+This is a formal signal to start the quality check process.
+
+Specific actions:
+Student D finishes "Object on an Inclined Plane" and sends a message in the group chat:
+"@Everyone My inclined plane section is done. It includes force diagrams, the acceleration derivation a = g(sinθ - μcosθ), and numerical calculations. Please check if the force arrow directions are correct."
+
+Step 5: Review & Discuss
+Teammates check the work, point out mistakes, and suggest improvements.
+The author fixes the issues and uploads a new version.
+
+Specific actions:
+Student A checks Student D's PPT and says: "The friction direction is drawn wrong. When the object slides down, friction points upward along the incline, but you drew it pointing downward."
+Student B suggests: "The calculation step is too jumpy. Please show the substitution process."
+Student C points out: "The angle θ is marked as 30° in the diagram, but you used sin45° in the formula. They need to match."
+Student D fixes everything and replies in the group: "All done! Thank you everyone."
+
+Step 6: Merge
+The leader combines all approved sections into one final PPT.
+Fonts, diagram styles, and formula formats are unified.
+
+Specific actions:
+The leader opens "Final_Applications_of_Newton's_Laws.pptx".
+They arrange the slides in this order: braking → elevator → projectile motion → inclined plane.
+They unify all force diagrams: all arrows are red with clear labels.
+They unify the formula font and add page numbers and a team member contribution page.
+
+Step 7: Delete the Branch (Cleanup)
+Move all drafts and old versions to an archive folder.
+Only the final version stays in the main directory.
+
+Specific actions:
+The leader creates a folder called "Old Drafts" and moves all "v1/v2/v3" and "draft" files into it.
+Only two files remain in the main directory:
+① "Applications_of_Newton's_Laws_Group1_Final.pptx"
+② "Presentation_Script.docx"
+The leader sends a message: "Cleanup done! Please only use the Final version from now on."
