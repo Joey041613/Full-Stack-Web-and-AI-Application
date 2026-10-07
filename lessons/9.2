@@ -1,0 +1,37 @@
+Git Configuration and Commit (配置与提交)
+配置 Git
+Before using Git, we set up our identity:
+```bash
+git config --global user.name "Your Name"
+#Sets your name for all commits.
+git config --global user.email "your.email@example.com"
+#Sets your email for all commits.
+git config --list
+#Shows all current Git settings.
+
+What Is a Commit?
+A commit is a snapshot of your project at a specific moment.
+
+Why clear commit messages matter:
+ Helps your future self understand what you did
+ Helps team members know why changes were made
+ Makes debugging easier
+
+Good commit message example:
+Add login feature for users
+Bad example:
+update
+
+Today's Git Workflow
+```bash
+git config --global user.name "itsladykerrtoo"
+git config --global user.email "itsladykerrtoo@email.com"
+mkdir git-practice
+cd git-practice
+git init
+echo "# My Git Practice" > README.md
+git status
+git add README.md
+git status
+git commit -m "Add README.md with project title"
+git log --oneline
